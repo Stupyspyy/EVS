@@ -6,6 +6,6 @@ If you also like to contribute then you are welcome.
 
 -->Which type of stuffs:-       
 
-     #That may be how to use typedef
-          #That may be using template in C++
-                 #That may be using vector header file and their common examples
+     #may be how to use typedef
+          #how to use template in C++
+                 #using vector header file and their common examples
